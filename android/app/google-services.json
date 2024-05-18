@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148594971876",
+    "project_id": "shopytoz",
+    "storage_bucket": "shopytoz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148594971876:android:1a8ab831a9079c411e08f1",
+        "android_client_info": {
+          "package_name": "com.example.shop_y_z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs17jqErUUMMt__FZy98KQPmanjNdEthA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
